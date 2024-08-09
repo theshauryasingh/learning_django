@@ -1,0 +1,7 @@
+1. 'django-admin startproject projectname' : to start a project
+
+2. 'python3 manage.py runserver 8001' : to run
+
+3. root level - manage.py, db.sqlite, 'projectname' folder(settings.py(Apps, Middlewares, DB connection, static folder, etc.), urls.py, ) 
+
+4. root folder will also have -  templates(html), static(css, js)
